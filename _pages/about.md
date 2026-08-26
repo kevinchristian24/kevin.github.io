@@ -16,13 +16,11 @@ Saya seorang mahasiswa UKDW prodi Informatika.
 👨🏻‍🔬 Pengalaman & Riset Terpilih
 ======
 * **Studi Independen — Machine Learning & Artificial Intelligence (Dicoding / MSIB)**
-<div style="text-align: justify;">
-Menyelesaikan kurikulum intensif *Data Science*, *Machine Learning*, dan *Artificial Intelligence* (AI). Pada **Capstone Project**, berkolaborasi dalam tim untuk merancang dan membangun sistem klasifikasi aksara sunda berbasis AI, bertanggung jawab pada tahap data preprocessing, perancangan dan pelatihan model deep learning menggunakan TensorFlow/Keras, serta evaluasi performa model untuk implementasi inferensi.
+<div style="text-align: justify;"> Menyelesaikan kurikulum intensif *Data Science*, *Machine Learning*, dan *Artificial Intelligence* (AI). Pada **Capstone Project**, berkolaborasi dalam tim untuk merancang dan membangun sistem klasifikasi aksara sunda berbasis AI, bertanggung jawab pada tahap data preprocessing, perancangan dan pelatihan model deep learning menggunakan TensorFlow/Keras, serta evaluasi performa model untuk implementasi inferensi.
 </div>
 
 * **Peneliti Skripsi — Klasifikasi Citra E-Waste 13 Kelas (UKDW)** <br>
-<div style="text-align: justify;">
-Mengembangkan model klasifikasi multi-kelas citra limbah elektronik menggunakan pendekatan Transfer Learning berbasis arsitektur **ResNet-50**. Membentuk dataset secara mandiri sebanyak 17.160 (13 kelas seimbang), serta menerapkan regulasi *Dropout*, *Early Stopping*, dan *Grid Search*. Menghasilkan akurasi pengujian sebesar **95.00%** dan performa *out-of-dataset* **90.76%** yang di-deploy interaktif via **Streamlit**.
+<div style="text-align: justify;"> Mengembangkan model klasifikasi multi-kelas citra limbah elektronik menggunakan pendekatan Transfer Learning berbasis arsitektur **ResNet-50**. Membentuk dataset secara mandiri sebanyak 17.160 (13 kelas seimbang), serta menerapkan regulasi *Dropout*, *Early Stopping*, dan *Grid Search*. Menghasilkan akurasi pengujian sebesar **95.00%** dan performa *out-of-dataset* **90.76%** yang di-deploy interaktif via **Streamlit**.
 </div>
 
 🛠️ Keahlian Teknis & Tools
