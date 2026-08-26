@@ -9,7 +9,7 @@ author_profile: true
 Penelitian tugas akhir yang bertujuan mengotomatisasi klasifikasi 13 kategori sampah elektronik (*E-Waste*) guna mengatasi isu ketidakseimbangan data dan *overfitting*.
 
 ### Alur Kerja
-* **Dataset:** 17.160 citra e-waste terkurasi (*XnView MP*, *dupeGuru*).
+* **Dataset:** 17.160 citra e-waste.
 * **Arsitektur:** ResNet-50 (*Transfer Learning* & *Fine-Tuning*).
 * **Optimasi:** Dropout 0.3, Early Stopping, Grid Search.
 * **Deployment:** Prototipe inferensi interaktif berbasis Streamlit.
