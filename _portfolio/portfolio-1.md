@@ -3,7 +3,7 @@ title: "Klasifikasi Citra Sampah Elektronik (E-Waste) 13 Kelas Berbasis Deep Lea
 excerpt: "Pengembangan model klasifikasi multi-kelas citra limbah elektronik (E-Waste) menggunakan Transfer Learning ResNet-50."
 collection: portfolio
 header:
-  teaser: "/images/e-waste.jpg"
+teaser: "/images/bio-photo.jpg"
 ---
 
 ### Ringkasan Proyek
