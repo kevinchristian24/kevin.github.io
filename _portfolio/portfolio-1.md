@@ -1,6 +1,6 @@
 ---
 title: "Klasifikasi Citra Sampah Elektronik (E-Waste) 13 Kelas Berbasis Deep Learning"
-excerpt: "Pengembangan model klasifikasi multi-kelas citra limbah elektronik (E-Waste) menggunakan Transfer Learning ResNet-50.<br/><img src='/kevin.github.io/images/e-waste.jpg'>"
+excerpt: "Pengembangan model klasifikasi multi-kelas citra limbah elektronik (E-Waste) menggunakan Transfer Learning ResNet-50.<br/><img src='/images/e-waste.jpg'>"
 collection: portfolio
 author_profile: true
 ---
