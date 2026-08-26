@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Klasifikasi Citra Sampah Elektronik (E-Waste) 13 Kelas Berbasis Deep Learning"
 excerpt: "Pengembangan model klasifikasi multi-kelas citra limbah elektronik (E-Waste) menggunakan Transfer Learning ResNet-50.<br/><img src='/kevin.github.io/images/e-waste.jpg'>"
 collection: portfolio
@@ -18,4 +18,12 @@ Penelitian tugas akhir yang bertujuan mengotomatisasi klasifikasi 13 kategori sa
 * **Training Accuracy:** 97.72%
 * **Validation Accuracy:** 96.43%
 * **Testing Accuracy:** 95.00%
-* **Out-of-Dataset:** 90.76%
+* **Out-of-Dataset:** 90.76% -->
+
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
