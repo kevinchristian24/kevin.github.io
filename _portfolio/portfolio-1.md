@@ -1,4 +1,4 @@
-<!-- ---
+<!-- <!-- ---
 title: "Klasifikasi Citra Sampah Elektronik (E-Waste) 13 Kelas Berbasis Deep Learning"
 excerpt: "Pengembangan model klasifikasi multi-kelas citra limbah elektronik (E-Waste) menggunakan Transfer Learning ResNet-50.<br/><img src='images/e-waste.jpg'>"
 collection: portfolio
@@ -18,7 +18,7 @@ Penelitian tugas akhir yang bertujuan mengotomatisasi klasifikasi 13 kategori sa
 * **Training Accuracy:** 97.72%
 * **Validation Accuracy:** 96.43%
 * **Testing Accuracy:** 95.00%
-* **Out-of-Dataset:** 90.76%
+* **Out-of-Dataset:** 90.76% -->
 
 
 ---
