@@ -18,7 +18,7 @@ Saya seorang mahasiswa UKDW prodi Informatika.
 * **Studi Independen — Machine Learning & Artificial Intelligence (Dicoding / MSIB)**
 Menyelesaikan kurikulum intensif *Data Science*, *Machine Learning*, dan *Artificial Intelligence* (AI). Pada **Capstone Project**, berkolaborasi dalam tim untuk merancang dan membangun sistem klasifikasi aksara sunda berbasis AI, bertanggung jawab pada tahap data preprocessing, perancangan dan pelatihan model deep learning menggunakan TensorFlow/Keras, serta evaluasi performa model untuk implementasi inferensi.
 
-* **Peneliti Skripsi — Klasifikasi Citra E-Waste 13 Kelas (UKDW)**
+* **Peneliti Skripsi — Klasifikasi Citra E-Waste 13 Kelas (UKDW)** <br>
 Mengembangkan model klasifikasi multi-kelas citra limbah elektronik menggunakan pendekatan Transfer Learning berbasis arsitektur **ResNet-50**. Membentuk dataset secara mandiri sebanyak 17.160 (13 kelas seimbang), serta menerapkan regulasi *Dropout*, *Early Stopping*, dan *Grid Search*. Menghasilkan akurasi pengujian sebesar **95.00%** dan performa *out-of-dataset* **90.76%** yang di-deploy interaktif via **Streamlit**.
 
 🛠️ Keahlian Teknis & Tools
