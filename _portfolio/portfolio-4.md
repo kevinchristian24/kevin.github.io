@@ -11,7 +11,7 @@ Pengembangan sistem kasir cerdas (*smart cashier*) berbasis *Computer Vision* un
 ### Peran & Tanggung Jawab
 * **Data Curation & Preprocessing:** Mengumpulkan dataset citra melalui teknik *scraping*, menyaring gambar relevan, mengonversi format file (`.webp` ke `.jpg`/`.png`), dan menyeragamkan kanal warna (RGB).
 * **Data Annotation & Splitting:** Melakukan *labeling* koordinat *bounding box* menggunakan Label Studio, serta membagi dataset menjadi *train*, *validation*, dan *test set* secara terdistribusi seimbang.
-* **Model Training & Evaluation:** Merancang dan melatih arsitektur YOLOv8n menggunakan *library* Ultralytics, mengevaluasi metrik presisi (mAP/IoU), serta mengonfigurasi model untuk tahapan inferensi transaksi kasir.
+* **Model Training & Evaluation:** Merancang dan melatih arsitektur YOLOv8n menggunakan *library* Ultralytics, mengevaluasi metrik presisi mAP, serta mengonfigurasi model untuk tahapan inferensi transaksi kasir.
 
 ### Alur Kerja
 * **Dataset:** 2.500 anotasi terkurasi yang terbagi seimbang ke dalam 5 kelas *pastry*.
