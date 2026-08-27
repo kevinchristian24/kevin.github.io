@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Ringkasan Proyek
-Pengembangan web profil Desa/Kelurahan Suryatmajan yang mengintegrasikan model kecerdasan buatan (*Deep Learning*) untuk mengklasifikasikan sampah organik dan anorganik secara otomatis, guna mendukung edukasi serta inisiatif pemilahan sampah warga.
+Pengembangan web profil Desa/Kelurahan RW Suryatmajan RW 09 yang mengintegrasikan model kecerdasan buatan (*Deep Learning*) untuk mengklasifikasikan sampah organik dan anorganik secara otomatis, guna mendukung edukasi serta inisiatif pemilahan sampah warga.
 
 ### Alur Kerja
 * **Dataset:** 22.599 citra sampah organik dan anorganik dari [Kaggle Dataset](https://www.kaggle.com/datasets/eldadvikorian/dataset-sampah-organik-dan-anorganik).
