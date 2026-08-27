@@ -15,7 +15,7 @@ Pengembangan sistem kasir cerdas (*smart cashier*) berbasis *Computer Vision* un
 
 ### Alur Kerja
 * **Dataset:** 2.500 anotasi terkurasi yang terbagi seimbang ke dalam 5 kelas *pastry*.
-* **Arsitektur:** YOLOv8s (*Transfer Learning*).
+* **Arsitektur:** YOLOv8n (*Transfer Learning*).
 * **Deployment:** Prototipe antarmuka kasir interaktif berbasis Streamlit.
 
 ### Hasil Evaluasi
