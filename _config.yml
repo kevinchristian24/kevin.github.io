@@ -23,7 +23,7 @@ repository               : "kevinchristian24/kevin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profiles.png"
   name             : "Kevin Christian Sepoetro"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
