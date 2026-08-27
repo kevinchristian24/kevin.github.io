@@ -25,4 +25,5 @@ Pengembangan web profil Desa/Kelurahan Suryatmajan yang mengintegrasikan model k
 
 ### Tech Stack & Tools
 * **AI & Deep Learning:** Python, TensorFlow, Keras, OpenCV
+* **front end:** Bootstrap
 * **Deployment & Versioning:** Streamlit, Git, GitHub

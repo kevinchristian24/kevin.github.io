@@ -9,16 +9,15 @@ author_profile: true
 Proyek akhir (*Capstone Project*) pada program Studi Independen (Dicoding / MSIB) yang bertujuan melestarikan aksara tradisional Sunda melalui klasifikasi citra berbasis kecerdasan buatan (*Artificial Intelligence*).
 
 ### Peran & Tanggung Jawab
-* **Data Preprocessing:** Pengumpulan dan augmentasi dataset aksara Sunda.
+* **Data Preprocessing:** Pengumpulan dan augmentasi dataset aksara Sunda [Dataset](https://github.com/ridhomujizat/AksaraSundaCNN.git).
 * **Model Training:** Merancang dan melatih arsitektur model *deep learning* menggunakan TensorFlow/Keras menggunakan **Transfer Learning** VGG16.
 * **Evaluasi & Inferensi:** Mengukur akurasi model serta mempersiapkan model untuk implementasi inferensi.
 
 
 ### Hasil Evaluasi
-* **mAP@0.5:** XX.XX% *(ganti dengan nilai Anda)*
-* **Precision:** XX.XX% *(opsional)*
-* **Recall:** XX.XX% *(opsional)*
-* **Detection Accuracy:** XX.XX% *(atau akurasi pengujian inferensi)*
+* **Training Accuracy:** XX.XX% *(isi nilai Anda)*
+* **Validation Accuracy:** XX.XX% *(isi nilai Anda)*
+* **Testing Accuracy:** XX.XX% *(isi nilai Anda)*
 
 
 ### Tech Stack & Tools

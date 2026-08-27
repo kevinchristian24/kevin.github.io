@@ -26,5 +26,6 @@ Pengembangan sistem kasir cerdas (*smart cashier*) berbasis *Computer Vision* un
 
 ### Tech Stack & Tools
 * **AI & Object Detection:** Python, Ultralytics (YOLOv8)
+* **Tool Scraping:** [Scraping](https://github.com/QianyanTech/Image-Downloader.git)
 * **Data & Annotation:** Label Studio
 * **Deployment & Versioning:** Streamlit, Git, GitHub
