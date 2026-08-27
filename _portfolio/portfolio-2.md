@@ -23,3 +23,7 @@ Proyek akhir (*Capstone Project*) pada program Studi Independen (Dicoding / MSIB
 ### Tech Stack & Tools
 * **Bahasa & Framework:** Python, TensorFlow, Keras, OpenCV
 * **Platform:** Google Colab, Git / GitHub
+
+## Link Demo
+[Link]()
+[Repository]()

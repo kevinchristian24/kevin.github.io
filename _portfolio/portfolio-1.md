@@ -19,3 +19,7 @@ Penelitian tugas akhir yang bertujuan mengotomatisasi klasifikasi 13 kategori sa
 * **Validation Accuracy:** 96.43%
 * **Testing Accuracy:** 95.00%
 * **Out-of-Dataset:** 90.76%
+
+## Link Demo
+* **Link Demo:**[Demo]()
+* **Repository:**[Repository](https://github.com/kevinchristian24/lagi.git)

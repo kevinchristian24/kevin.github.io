@@ -27,3 +27,7 @@ Pengembangan web profil Desa/Kelurahan Suryatmajan yang mengintegrasikan model k
 * **AI & Deep Learning:** Python, TensorFlow, Keras, OpenCV
 * **front end:** Bootstrap
 * **Deployment & Versioning:** Streamlit, Git, GitHub
+
+## Link Demo
+* **Link Demo:**[Demo](https://suryatmajan.streamlit.app/)
+* **Repository:**[Repository](https://github.com/kevinchristian24/lagi.git)

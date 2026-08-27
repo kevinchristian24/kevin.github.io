@@ -11,7 +11,7 @@ Pengembangan sistem kasir cerdas (*smart cashier*) berbasis *Computer Vision* un
 ### Peran & Tanggung Jawab
 * **Data Curation & Preprocessing:** Mengumpulkan dataset citra melalui teknik *scraping*, menyaring gambar relevan, mengonversi format file (`.webp` ke `.jpg`/`.png`), dan menyeragamkan kanal warna (RGB).
 * **Data Annotation & Splitting:** Melakukan *labeling* koordinat *bounding box* menggunakan Label Studio, serta membagi dataset menjadi *train*, *validation*, dan *test set* secara terdistribusi seimbang.
-* **Model Training & Evaluation:** Merancang dan melatih arsitektur YOLOv8s menggunakan *library* Ultralytics, mengevaluasi metrik presisi (mAP/IoU), serta mengonfigurasi model untuk tahapan inferensi transaksi kasir.
+* **Model Training & Evaluation:** Merancang dan melatih arsitektur YOLOv8n menggunakan *library* Ultralytics, mengevaluasi metrik presisi (mAP/IoU), serta mengonfigurasi model untuk tahapan inferensi transaksi kasir.
 
 ### Alur Kerja
 * **Dataset:** 2.500 anotasi terkurasi yang terbagi seimbang ke dalam 5 kelas *pastry*.
@@ -19,13 +19,18 @@ Pengembangan sistem kasir cerdas (*smart cashier*) berbasis *Computer Vision* un
 * **Deployment:** Prototipe antarmuka kasir interaktif berbasis Streamlit.
 
 ### Hasil Evaluasi
-* **mAP@0.5:** XX.XX% *(ganti dengan nilai Anda)*
-* **Precision:** XX.XX% *(opsional)*
-* **Recall:** XX.XX% *(opsional)*
-* **Detection Accuracy:** XX.XX% *(atau akurasi pengujian inferensi)*
+* **mAP@50:** 97%.0% 
+* **Precision:** 92.6% 
+* **Recall:** 93.4% 
+* **mAP@50-90:**76.4%
+
 
 ### Tech Stack & Tools
 * **AI & Object Detection:** Python, Ultralytics (YOLOv8)
 * **Tool Scraping:** [Scraping](https://github.com/QianyanTech/Image-Downloader.git)
 * **Data & Annotation:** Label Studio
 * **Deployment & Versioning:** Streamlit, Git, GitHub
+
+## Link
+* **Link Demo:**[Demo](https://pastry-crx6mmxbaafnaohmodohq9.streamlit.app/)
+* **Repository:**[Repository](https://github.com/kevinchristian24/Pastry.git)
