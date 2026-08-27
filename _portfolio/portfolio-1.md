@@ -21,5 +21,5 @@ Penelitian tugas akhir yang bertujuan mengotomatisasi klasifikasi 13 kategori sa
 * **Out-of-Dataset:** 90.76%
 
 ## Link Demo
-* **Link Demo:**[Demo]()
-* **Repository:**[Repository](https://github.com/kevinchristian24/lagi.git)
+* **Link Demo:**[Demo](https://skripsi-4qqdhhzwyh76t3m52wwrzc.streamlit.app/)
+* **Repository:**[Repository](https://github.com/kevinchristian24/Skripsi.git)

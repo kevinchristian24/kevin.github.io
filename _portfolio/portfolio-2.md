@@ -15,9 +15,8 @@ Proyek akhir (*Capstone Project*) pada program Studi Independen (Dicoding / MSIB
 
 
 ### Hasil Evaluasi
-* **Training Accuracy:** XX.XX% *(isi nilai Anda)*
-* **Validation Accuracy:** XX.XX% *(isi nilai Anda)*
-* **Testing Accuracy:** XX.XX% *(isi nilai Anda)*
+* **Training Accuracy:** 97%
+* **Testing Accuracy:** 100%
 
 
 ### Tech Stack & Tools
@@ -25,5 +24,5 @@ Proyek akhir (*Capstone Project*) pada program Studi Independen (Dicoding / MSIB
 * **Platform:** Google Colab, Git / GitHub
 
 ## Link Demo
-[Link]()
-[Repository]()
+* **Link Demo:**[Demo](https://aksara-sunda-9au29mscs925kt84m4pqkm.streamlit.app/)
+* **Repository:**[Repository](https://github.com/kevinchristian24/Aksara-Sunda.git)

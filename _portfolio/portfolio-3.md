@@ -13,11 +13,6 @@ Pengembangan web profil Desa/Kelurahan Suryatmajan yang mengintegrasikan model k
 * **Arsitektur:** VGG16 (*Transfer Learning*).
 * **Deployment:** Aplikasi web interaktif berbasis Streamlit.
 
-### Hasil Evaluasi
-* **Training Accuracy:** XX.XX% *(isi nilai Anda)*
-* **Validation Accuracy:** XX.XX% *(isi nilai Anda)*
-* **Testing Accuracy:** XX.XX% *(isi nilai Anda)*
-
 ### Peran & Tanggung Jawab
 * **Data Curation & Preprocessing:** Mengkurasi dataset publik dari Kaggle, melakukan *resizing*, normalisasi citra, serta augmentasi data untuk pelatihan model.
 * **Model Training & Evaluation:** Merancang arsitektur model klasifikasi citra menggunakan *Transfer Learning* berbasis VGG16, melatih model, serta mengevaluasi akurasi prediksi.
