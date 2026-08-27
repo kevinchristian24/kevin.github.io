@@ -20,6 +20,11 @@ Penelitian tugas akhir yang bertujuan mengotomatisasi klasifikasi 13 kategori sa
 * **Testing Accuracy:** 95.00%
 * **Out-of-Dataset:** 90.76%
 
+### Tech Stack & Tools
+* **Bahasa & Framework:** Python, TensorFlow, Keras, OpenCV
+* **Platform:** Google Colab, Git / GitHub
+* **Deployment:** Streamlit
+
 ## Link Demo
 * **Link Demo:**[Demo](https://skripsi-4qqdhhzwyh76t3m52wwrzc.streamlit.app/)
 * **Repository:**[Repository](https://github.com/kevinchristian24/Skripsi.git)
