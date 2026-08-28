@@ -25,6 +25,15 @@ Penelitian tugas akhir yang bertujuan mengotomatisasi klasifikasi 13 kategori sa
 * **Platform:** Google Colab, Git / GitHub
 * **Deployment:** Streamlit
 
+## Sumber & Pengumpulan Dataset
+* **Kaggle Datasets:**
+  * [Solar Panel Images](https://www.kaggle.com/datasets/pythonafroz/solar-panel-images)
+  * [E-Waste Image Dataset](https://www.kaggle.com/datasets/akshat103/e-waste-image-dataset)
+  * [E-Waste Compressed](https://www.kaggle.com/datasets/mxtuhin/e-waste-compressed)
+  * [E-Waste by Ranti Maulidaningsih](https://www.kaggle.com/datasets/rantimaulidaningsih/e-waste)
+* **GitHub Dataset:** [EWasteNet Repository](https://github.com/NifulIslam/EWasteNet-A-Two-Stream-DeiT-Approach-for-E-Waste-Classification.git)
+* **Web Scraping:** Pengumpulan citra web mandiri via [Image-Downloader](https://github.com/QianyanTech/Image-Downloader.git)
+
 ## Link Demo
 * **Link Demo:**[Demo](https://skripsi-4qqdhhzwyh76t3m52wwrzc.streamlit.app/)
 * **Repository:**[Repository](https://github.com/kevinchristian24/Skripsi.git)
