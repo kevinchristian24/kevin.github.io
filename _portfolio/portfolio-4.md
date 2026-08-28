@@ -19,7 +19,7 @@ Pengembangan sistem kasir cerdas (*smart cashier*) berbasis *Computer Vision* un
 * **Deployment:** Prototipe antarmuka kasir interaktif berbasis Streamlit.
 
 ### Hasil Evaluasi
-* **mAP@50:** 97%.0% 
+* **mAP@50:** 97.0% 
 * **Precision:** 92.6% 
 * **Recall:** 93.4% 
 * **mAP@50-90:**76.4%
